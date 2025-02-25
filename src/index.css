@@ -1,0 +1,13 @@
+.containers{
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#background{
+  background-color: rgba(11, 142, 146, 0.781);
+  width: 250px;
+  height: 370px;
+}
+
